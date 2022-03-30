@@ -1,6 +1,4 @@
 multiCameraEnable=TRUE
-logInfoMask=0x10098
-overrideLogLevels=0x1F
 MPMSizeThresToDisableDelayedUnmap=0
 MPMForceDisableDelayedUnmap=TRUE
 #pdafHWEnable=TRUE
